@@ -30,9 +30,15 @@ Assess model proficiency on varied Telugu datasets, including TSAD. Measure accu
 
 Confusion Matrix
 
-![image](https://github.com/Balajivemula21/BERT-based-Sentiment-Analysis/assets/75297072/cc3f297d-2ba7-40f1-abe7-2e855e298fa3)
+![image](https://github.com/Balajivemula21/BERT-based-Sentiment-Analysis/assets/75297072/3ce26fc6-5811-44d3-9d50-da02997e4a20)
 
-![image](https://github.com/Balajivemula21/BERT-based-Sentiment-Analysis/assets/75297072/481c5cda-c498-473c-bc3d-19e619c00e4b)
+The sentiment analysis experiment produced significant results:
+Negative sentiment category:
+   Precision: 94%, Recall: 92%, F1-Score: 93%
+Neutral sentiment category:
+    Precision: 97%, Recall: 92%, F1-Score: 94%
+Positive sentiment category:
+    Precision: 83%, Recall: 92%, F1-Score: 87%
 
 
 
