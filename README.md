@@ -26,3 +26,13 @@ Assess model proficiency on varied Telugu datasets, including TSAD. Measure accu
 
 ![image](https://github.com/Balajivemula21/BERT-based-Sentiment-Analysis/assets/75297072/0e324b00-f87c-4742-a2b0-5c720d80ca95)
 
+# Implementation Details
+
+Confusion Matrix
+![image](https://github.com/Balajivemula21/BERT-based-Sentiment-Analysis/assets/75297072/cc3f297d-2ba7-40f1-abe7-2e855e298fa3)
+![image](https://github.com/Balajivemula21/BERT-based-Sentiment-Analysis/assets/75297072/481c5cda-c498-473c-bc3d-19e619c00e4b)
+
+
+
+
+
